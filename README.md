@@ -1,3 +1,4 @@
+Link to hosted project: https://60c145064c45541f6a5c86e1--zealous-bassi-689d04.netlify.app/ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
